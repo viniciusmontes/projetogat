@@ -12,7 +12,7 @@
 	<artifactId>projetogat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>projetogat</name>
-	<description>DeBootmo project for Spring</description>
+	<description>Projeto para a entrevista</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
