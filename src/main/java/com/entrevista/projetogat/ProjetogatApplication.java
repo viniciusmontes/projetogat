@@ -7,7 +7,14 @@ import org.springframework.boot.context.event.ApplicationReadyEvent;
 import org.springframework.context.event.EventListener;
 
 import com.entrevista.projetogat.services.SendEmailService;
-
+/***
+ * 
+ * @author viniciusmontes@outlook.com.br
+ * 
+ * Conseguir apenas configurar o application.properties e fazer com que suba o email para o gmail
+ * (deixei sem a senha no application.properties pois usei o pessoal.
+ *
+ */
 @SpringBootApplication
 public class ProjetogatApplication {
 	
